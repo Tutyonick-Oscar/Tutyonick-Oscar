@@ -6,8 +6,6 @@ I’m a backend engineer with a strong track record in developing robust, secure
 
 Constantly exploring new technologies and building innovative solutions to solve real-world problems.
 
-![GitHub stats](https://github-readme-stats-eight-xi-41.vercel.app/api?username=Tutyonick-Oscar&show_icons=true&include_all_commits=false&theme=tokyonight&border_radius=8&border_color=A012FF&custom_title=My%20Github%20stats)
-
 ## 💼 What I Bring
 
 - **Django**: design and deployment of financial-grade APIs and services with strict compliance and reliability  
@@ -32,7 +30,7 @@ Constantly exploring new technologies and building innovative solutions to solve
 - **Databases**: PostgreSQL, MySQL, Redis, SQLite  
 
 
-![Top Langs](https://github-readme-stats-eight-xi-41.vercel.app/api/top-langs/?username=Tutyonick-Oscar&layout=compact&hide=hack,css&theme=tokyonight&border_radius=8&border_color=A012FF)
+![Top Langs](https://github-readme-stats-eight-xi-41.vercel.app/api/top-langs/?username=Tutyonick-Oscar&layout=compact&hide=html,css&theme=tokyonight&border_radius=8&border_color=A012FF)
 
 ## 📫 Let’s Connect
 
